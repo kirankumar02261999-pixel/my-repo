@@ -1,3 +1,2 @@
-hello from 1.txt
 hello from new branch
 this is 3rd line for test
